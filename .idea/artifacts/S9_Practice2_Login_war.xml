@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="S9_Practice2_Login:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>S9_Practice2_Login</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="S9_Practice2_Login-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="S9_Practice2_Login:war exploded" />
+    </root>
+  </artifact>
+</component>
